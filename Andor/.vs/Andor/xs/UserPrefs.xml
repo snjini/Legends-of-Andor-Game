@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BDADFC34-6B55-42E8-6C80-557DC6BB3A7E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameBoardRegion.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameBoardRegion.cs" Line="727" Column="16" />
+      <File FileName="Assets/Scripts/LobbyController.cs" Line="102" Column="2" />
+      <File FileName="Assets/Scripts/Hero.cs" Line="101" Column="1" />
+      <File FileName="Assets/Scripts/wells.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WellController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Prince.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cards.cs" Line="209" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Andor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Photon" expanded="True">
+                <Node name="PhotonUnityNetworking" expanded="True">
+                  <Node name="Code" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="GameBoardRegion.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92ffdc6b-2743-4e98-b295-1c3a37ac35b9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
