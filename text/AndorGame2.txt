@@ -1,0 +1,40 @@
+0
+1
+0
+0
+False
+True
+Dwarf	17	7	7	1	0	4	False	2	0	0	0	0	0	0	1	0	0
+Gor	7
+Gor	3
+Gor	4
+Gor	25
+Gor	16
+Skral	1
+well	5	True
+well	35	True
+well	45	True
+well	55	True
+fog	12
+fog	49
+fog	47
+fog	64
+fog	11
+fog	46
+fog	44
+fog	8
+fog	42
+fog	56
+fog	48
+fog	16
+fog	13
+fog	63
+fog	32
+event	event	event	event	event	strength	gold	gold	gold	gor	gor	wineskin	witches	wp2	wp3	
+gold	38	1
+yellow	40
+green	54
+green	53
+blue	42
+blue	31
+farmer	24
